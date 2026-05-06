@@ -1,0 +1,183 @@
+{
+  "brands": [
+    {
+      "id": "aa9a9c67-a2cd-4117-acc9-f1f07a902a84",
+      "name": "Casa Maior",
+      "wabas": [
+        {
+          "id": "6505a309-fc1a-421e-98af-de59027f8c73",
+          "wabaId": "683879534795269",
+          "appId": "882593943978586",
+          "accessToken": "EAAMituqDAloBOxjUQC2eWKxfyuZBhwA4ZA8GJUxEe6X2DZBNrP5qYVp1LuIkT8D9RmHbfgxaot48akZCE9LZAdL1ZCjIZBb6KmmPUqq6XYRmfiPcM3m09nrMaCfDSjHkJvNQtiYTrN73DfZBcK5mjv1tJhk5sMIHZAPg9CLKMRHUXZCPX9pLdFaENtj7nwMzzW91AAiwZDZD",
+          "phoneNumbers": [
+            {
+              "id": "22b4e224-9349-40ad-a641-f4a4cf5eef4d",
+              "phoneNumberId": "868344423031107",
+              "label": "Principal"
+            }
+          ]
+        }
+      ],
+      "destinations": [
+        {
+          "id": "440a3039-ae7e-4b26-a928-f63b3acb54cd",
+          "number": "5561992214569",
+          "label": "Pedro"
+        },
+        {
+          "id": "d3ceb941-b614-4b7f-8047-942d37ad495a",
+          "number": "556192244334",
+          "label": "Jennifer"
+        },
+        {
+          "id": "f661aca4-b84e-4809-b865-be2a31b35ae6",
+          "number": "5516997121231",
+          "label": "Igor - Sellbie"
+        }
+      ]
+    },
+    {
+      "id": "a5885aba-4b93-4949-9cb9-95e56c4161fe",
+      "name": "Oticas Brasil",
+      "wabas": [
+        {
+          "id": "b02aef1d-f7fd-4659-9229-df75e306ff74",
+          "wabaId": "880192024526388",
+          "appId": "882593943978586",
+          "accessToken": "EAAMituqDAloBOxjUQC2eWKxfyuZBhwA4ZA8GJUxEe6X2DZBNrP5qYVp1LuIkT8D9RmHbfgxaot48akZCE9LZAdL1ZCjIZBb6KmmPUqq6XYRmfiPcM3m09nrMaCfDSjHkJvNQtiYTrN73DfZBcK5mjv1tJhk5sMIHZAPg9CLKMRHUXZCPX9pLdFaENtj7nwMzzW91AAiwZDZD",
+          "phoneNumbers": [
+            {
+              "id": "6a3e4fff-1fe1-4ac2-971c-f93df9a37987",
+              "phoneNumberId": "905444659318833",
+              "label": "Oticas Brasil"
+            }
+          ]
+        }
+      ],
+      "destinations": [
+        {
+          "id": "36b5f255-723a-4477-8c7d-74addb57717a",
+          "number": "556292735518",
+          "label": "Helen"
+        },
+        {
+          "id": "5c02b00a-786a-4402-ab2c-272e86c2257e",
+          "number": "5521995492647",
+          "label": "André - Sellbie"
+        },
+        {
+          "id": "bcb677cc-9edb-47d5-84a2-d46f24912772",
+          "number": "5511951202721",
+          "label": "Allef - Sellbie"
+        },
+        {
+          "id": "b052ddf7-a62d-4e6a-9629-a5e71202c601",
+          "number": "5511984399983",
+          "label": "Luciana - Sellbie"
+        }
+      ]
+    },
+    {
+      "id": "92024e10-3dc1-4c1e-a4e3-b9315b88a05d",
+      "name": "Jogê",
+      "wabas": [
+        {
+          "id": "e8cb655b-3b0f-47e2-99d4-e0724b1d8c24",
+          "wabaId": "856454730673201",
+          "appId": "882593943978586",
+          "accessToken": "EAAMituqDAloBOxjUQC2eWKxfyuZBhwA4ZA8GJUxEe6X2DZBNrP5qYVp1LuIkT8D9RmHbfgxaot48akZCE9LZAdL1ZCjIZBb6KmmPUqq6XYRmfiPcM3m09nrMaCfDSjHkJvNQtiYTrN73DfZBcK5mjv1tJhk5sMIHZAPg9CLKMRHUXZCPX9pLdFaENtj7nwMzzW91AAiwZDZD",
+          "phoneNumbers": [
+            {
+              "id": "a4cbb252-a7c9-4265-86d7-907cba6e1991",
+              "phoneNumberId": "920888137768055",
+              "label": "Joge"
+            }
+          ]
+        }
+      ],
+      "destinations": [
+        {
+          "id": "7bf36238-ffe3-4dbc-8707-9b97ef86b0e0",
+          "number": "5511960794905",
+          "label": "Lari"
+        },
+        {
+          "id": "7dc47801-3fcc-42f1-b76f-528999d4265e",
+          "number": "5511969333651",
+          "label": "Monike"
+        },
+        {
+          "id": "aeb29eb3-7533-4891-b65b-f0c65109f1a2",
+          "number": "5511983917151",
+          "label": "Camily"
+        }
+      ]
+    },
+    {
+      "id": "f416cd6f-2529-48c9-afb7-0d0d82b5d24d",
+      "name": "Basic Collection",
+      "wabas": [
+        {
+          "id": "737b5411-f523-4a03-9ef1-eee25afb5be7",
+          "wabaId": "1377633187358142",
+          "appId": "882593943978586",
+          "accessToken": "EAAMituqDAloBOxjUQC2eWKxfyuZBhwA4ZA8GJUxEe6X2DZBNrP5qYVp1LuIkT8D9RmHbfgxaot48akZCE9LZAdL1ZCjIZBb6KmmPUqq6XYRmfiPcM3m09nrMaCfDSjHkJvNQtiYTrN73DfZBcK5mjv1tJhk5sMIHZAPg9CLKMRHUXZCPX9pLdFaENtj7nwMzzW91AAiwZDZD",
+          "phoneNumbers": [
+            {
+              "id": "37ec70a7-f6a7-4679-acb3-864cc3fdba4d",
+              "phoneNumberId": "872489655955183",
+              "label": "Basic"
+            }
+          ]
+        }
+      ],
+      "destinations": [
+        {
+          "id": "6757c551-b7ef-442c-863e-0ea38ce67f0e",
+          "number": "556192244334",
+          "label": "Jennifer"
+        },
+        {
+          "id": "5f61db57-e368-4ad4-bb0c-101e9eb087dd",
+          "number": "5561992214569",
+          "label": "Pedro"
+        },
+        {
+          "id": "7226e616-126c-4ea2-9569-047653ad529b",
+          "number": "5516997121231",
+          "label": "Igor - Sellbie"
+        }
+      ]
+    },
+    {
+      "id": "ea0f9c13-82a7-4997-85aa-9bad2cd961a2",
+      "name": "UV Line",
+      "wabas": [
+        {
+          "id": "68ddec1e-81ea-4a7d-80ea-42ee9f4d39a1",
+          "wabaId": "1202358894775944",
+          "appId": "882593943978586",
+          "accessToken": "EAAMituqDAloBOxjUQC2eWKxfyuZBhwA4ZA8GJUxEe6X2DZBNrP5qYVp1LuIkT8D9RmHbfgxaot48akZCE9LZAdL1ZCjIZBb6KmmPUqq6XYRmfiPcM3m09nrMaCfDSjHkJvNQtiYTrN73DfZBcK5mjv1tJhk5sMIHZAPg9CLKMRHUXZCPX9pLdFaENtj7nwMzzW91AAiwZDZD",
+          "phoneNumbers": [
+            {
+              "id": "5a000fe7-8db0-4db0-9e46-70b39ae93b67",
+              "phoneNumberId": "1005588302619292",
+              "label": "UV Line"
+            }
+          ]
+        }
+      ],
+      "destinations": [
+        {
+          "id": "7c7fb9ad-6786-4043-8d04-df6d7beda35d",
+          "number": "5511960794905",
+          "label": "Lari"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "appId": "882593943978586",
+    "accessToken": "EAAMituqDAloBOxjUQC2eWKxfyuZBhwA4ZA8GJUxEe6X2DZBNrP5qYVp1LuIkT8D9RmHbfgxaot48akZCE9LZAdL1ZCjIZBb6KmmPUqq6XYRmfiPcM3m09nrMaCfDSjHkJvNQtiYTrN73DfZBcK5mjv1tJhk5sMIHZAPg9CLKMRHUXZCPX9pLdFaENtj7nwMzzW91AAiwZDZD"
+  }
+}
